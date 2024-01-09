@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Kapil",
+                "email" : "kapil@example.com",
+                "age" : 26,
+            "city" : "New delhi"
+    },
+    {
+        "name" : "Virat",
+        "email" : "virat@example.com",
+        "age" : 28,
+    "city" : "pune"
+    },
+    {
+        "name" : "Amitab",
+        "email" : "amitab@example.com",
+        "age" : 28,
+    "city" : "mumbai"   
+    },
+
+    {
+        "name" : "Ajeet",
+        "email" : "ajeet@example.com",
+        "age" : 22,
+    "city" : "jaunpur"   
+    }
+]
